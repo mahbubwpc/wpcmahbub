@@ -1,5 +1,7 @@
 <?php
-
+----------------------------------------
+Generate SSH Key by Git Bash
+ssh-keygen -t rsa -b 4096 -C "mahbubur@wpcommerz.com"
 
 **To remove just a few specific files from being tracked:
 
@@ -163,7 +165,9 @@ git branch -M master
 git push -u origin master
 
 
-
+git remote add origin https://github.com/mahbubwpc/wpcmahbub.git
+git branch -M master
+git push -u origin master
 
 //******************************************************************
 //******************************************************************
