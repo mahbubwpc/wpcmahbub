@@ -67,6 +67,8 @@
 02.Set global user for all project:
 	<=> git config --global user.name "MAHBUB"
 	<=> git config --global user.email "devmahbubinfo@gmail.com"
+	<=> git config --global user.email "mahbubwpc@gmail.com"
+    
 
 03.Set local user for one project:
 	<=> git config user.name "Mahbub"
